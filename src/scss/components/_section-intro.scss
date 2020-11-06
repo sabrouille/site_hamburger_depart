@@ -1,0 +1,20 @@
+.intro{
+  padding: 40px;
+  color: var(--color-text-secondary);
+  background-color: var(--color-bg-secondary);
+
+  .logo{
+    width: 130px;
+  }
+
+  h1{
+    margin: 0;
+    line-height: var(--lh-extra-thin);
+
+    text-transform: uppercase;
+
+    span{
+      display: block;
+    }
+  }
+}
